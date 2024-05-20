@@ -1,0 +1,3 @@
+validate-maintainers: false
+chart-repos:
+  - postgres=https://charts.bitnami.com/bitnami
